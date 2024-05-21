@@ -1,3 +1,5 @@
+package kyu6
+
 /**
  * Your task is to find the next higher number (int) with same '1'- Bits.
  *
